@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Budget Allocator\bin\Debug\Budget Allocator.exe.config
+C:\Users\HP\source\repos\Budget Allocator\bin\Debug\Budget Allocator.exe
+C:\Users\HP\source\repos\Budget Allocator\bin\Debug\Budget Allocator.pdb
+C:\Users\HP\source\repos\Budget Allocator\obj\Debug\Budget Allocator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Budget Allocator\obj\Debug\Budget Allocator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Budget Allocator\obj\Debug\Budget Allocator.exe
+C:\Users\HP\source\repos\Budget Allocator\obj\Debug\Budget Allocator.pdb
